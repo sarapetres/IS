@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\bin\Debug\net7.0\Shop.Repository.deps.json
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\bin\Debug\net7.0\Shop.Repository.runtimeconfig.json
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\bin\Debug\net7.0\Shop.Repository.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\bin\Debug\net7.0\Shop.Repository.pdb
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\bin\Debug\net7.0\Shop.Domain.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\bin\Debug\net7.0\Shop.Domain.pdb
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.AssemblyInfo.cs
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.csproj.CopyComplete
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\refint\Shop.Repository.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.pdb
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\Shop.Repository.genruntimeconfig.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Repository\obj\Debug\net7.0\ref\Shop.Repository.dll

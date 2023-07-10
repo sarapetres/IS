@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\bin\Debug\net7.0\Shop.Domain.deps.json
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\bin\Debug\net7.0\Shop.Domain.runtimeconfig.json
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\bin\Debug\net7.0\Shop.Domain.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\bin\Debug\net7.0\Shop.Domain.pdb
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\refint\Shop.Domain.dll
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.pdb
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\Shop.Domain.genruntimeconfig.cache
+C:\Users\User\Desktop\ISApp\CinemaApp\CinemaApp\Shop.Domain\obj\Debug\net7.0\ref\Shop.Domain.dll
